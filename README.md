@@ -121,6 +121,7 @@ The resulting `melted_df` will look like:
 As you can see, the melted dataframe is in a long format where each row represents a combination of a student's name, subject, and score. This format is often more suitable for various types of analysis and visualization.
 
 The `melt` function is a powerful tool for data manipulation and transformation in pandas, especially when dealing with wide datasets that need to be reshaped for specific analytical needs.
+_________________________________________________________________________________________________________________________________________________________________
 
 ### > About agg() Function: 
 
