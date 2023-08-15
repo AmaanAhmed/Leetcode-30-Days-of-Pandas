@@ -9,54 +9,54 @@
 ### Data Filtering
 
 [1. Big Countries](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/1.%20Big%20Countries.md) <br>
-[2. Recyclable and Low Fat Products](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/2.%20Recyclable%20and%20Low%20Fat%20Products.md)
-[3. Customers Who Never Order](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/3.%20Customers%20Who%20Never%20Order.md)
-[4. Article Views I](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/4.%20Article%20Views%20I.md)
+[2. Recyclable and Low Fat Products](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/2.%20Recyclable%20and%20Low%20Fat%20Products.md) <br>
+[3. Customers Who Never Order](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/3.%20Customers%20Who%20Never%20Order.md) <br>
+[4. Article Views I](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/1.%20Data%20Filtering/4.%20Article%20Views%20I.md) <br>
 
 ### String Methods
 
-[1. Invalid Tweets](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/1.%20Invalid%20Tweets.md)
-[2. Calculate Special Bonus](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/2.%20Calculate%20Special%20Bonus.md)
-[3. Fix Names in a Table](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/3.%20Fix%20Names%20in%20a%20Table.md)
-[4. Find Users With Valid E-Mails](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/4.%20Find%20Users%20With%20Valid%20E-Mails.md)
-[5. Patients With a Condition](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/5.%20Patients%20With%20a%20Condition.md)
+[1. Invalid Tweets](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/1.%20Invalid%20Tweets.md) <br>
+[2. Calculate Special Bonus](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/2.%20Calculate%20Special%20Bonus.md) <br>
+[3. Fix Names in a Table](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/3.%20Fix%20Names%20in%20a%20Table.md) <br>
+[4. Find Users With Valid E-Mails](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/4.%20Find%20Users%20With%20Valid%20E-Mails.md) <br>
+[5. Patients With a Condition](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/2.%20String%20Methods/5.%20Patients%20With%20a%20Condition.md) <br>
 
 ### Data Manipulation
 
-[1. Nth Highest Salary](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/1.%20Nth%20Highest%20Salary.md)
-[2. Second Highest Salary](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/2.%20Second%20Highest%20Salary.md)
-[3. Department Highest Salary](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/3.%20Department%20Highest%20Salary.md)
-[4. Rank Scores](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/4.%20Rank%20Scores.md)
-[5. Delete Duplicate Emails](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/5.%20Delete%20Duplicate%20E-Mails.md)
-[6. Rearrange Products Table](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/6.%20Rearrange%20Products%20Table.md)
+[1. Nth Highest Salary](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/1.%20Nth%20Highest%20Salary.md) <br>
+[2. Second Highest Salary](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/2.%20Second%20Highest%20Salary.md) <br>
+[3. Department Highest Salary](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/3.%20Department%20Highest%20Salary.md) <br>
+[4. Rank Scores](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/4.%20Rank%20Scores.md) <br>
+[5. Delete Duplicate Emails](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/5.%20Delete%20Duplicate%20E-Mails.md) <br>
+[6. Rearrange Products Table](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/3.%20Data%20Manipulation/6.%20Rearrange%20Products%20Table.md) <br>
 
 ### Statistics
 
-[1. The Number of Rich Customers](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/4.%20Statistics/1.%20The%20Number%20of%20Rich%20Customers.md)
-[2. Immediate Food Delivery I](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/4.%20Statistics/2.%20Immediate%20Food%20Delivery%20I.md)
-[3. Count Salary Categories](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/4.%20Statistics/3.%20Count%20Salary%20Categories.md)
+[1. The Number of Rich Customers](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/4.%20Statistics/1.%20The%20Number%20of%20Rich%20Customers.md) <br>
+[2. Immediate Food Delivery I](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/4.%20Statistics/2.%20Immediate%20Food%20Delivery%20I.md) <br>
+[3. Count Salary Categories](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/4.%20Statistics/3.%20Count%20Salary%20Categories.md) <br>
 
 ### Data Aggregation
 
-[1. Find Total Time Spent by Each Employee](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/1.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)
-[2. Game Play Analysis I](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/2.%20Game%20Play%20Analysis%20I.md)
-[3. Number of Unique Subjects Taught by Each Teacher](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/3.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)
-[4. Classes More Than 5 Students](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/4.%20Classes%20More%20Than%205%20Students.md)
-[5. Customer Placing the Largest Number of Orders](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/5.%20Customers%20Placing%20the%20Largest%20Number%20of%20Orders.md)
-[6. Group Sold Products By The Date](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/6.%20Group%20Sold%20Products%20by%20the%20Date.md)
-[7. Daily Leads and Partners](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/7.%20Daily%20Leads%20and%20Partners.md)
+[1. Find Total Time Spent by Each Employee](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/1.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md) <br>
+[2. Game Play Analysis I](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/2.%20Game%20Play%20Analysis%20I.md) <br>
+[3. Number of Unique Subjects Taught by Each Teacher](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/3.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md) <br>
+[4. Classes More Than 5 Students](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/4.%20Classes%20More%20Than%205%20Students.md) <br>
+[5. Customer Placing the Largest Number of Orders](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/5.%20Customers%20Placing%20the%20Largest%20Number%20of%20Orders.md) <br>
+[6. Group Sold Products By The Date](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/6.%20Group%20Sold%20Products%20by%20the%20Date.md) <br>
+[7. Daily Leads and Partners](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/5.%20Data%20Aggregation/7.%20Daily%20Leads%20and%20Partners.md) <br>
 
 ### Data Integration
 
-[1. Actors and Directors Who Cooperated At Least Three Times](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/1.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)
-[2. Replace Employee ID With The Unique Identifier](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/2.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)
-[3. Students and Examinations](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/3.%20Students%20and%20Examinations.md)
-[4. Managers with at Least 5 Direct Reports](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/4.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)
-[5. Sales Person](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/5.%20Sales%20Person.md)
+[1. Actors and Directors Who Cooperated At Least Three Times](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/1.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md) <br>
+[2. Replace Employee ID With The Unique Identifier](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/2.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) <br>
+[3. Students and Examinations](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/3.%20Students%20and%20Examinations.md) <br>
+[4. Managers with at Least 5 Direct Reports](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/4.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md) <br>
+[5. Sales Person](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/6.%20Data%20Integration/5.%20Sales%20Person.md) <br>
 
 ## Here are a few functions that will make the code even more comprehensible for you. Feel free to skip this section if you're already familiar with these concepts.
 
-### melt() Function:
+### ** About melt() Function: **
 
 In the context of the Python programming language and the pandas library, the `melt` function is used to reshape and transform dataframes. It's an essential tool for restructuring data from a wide format to a long format. The `melt` function is particularly useful when you have a dataframe where multiple columns represent different variables, and you want to "melt" or "unpivot" these columns into a single column, thereby making the data more suitable for analysis, visualization, or further processing.
 
@@ -122,7 +122,7 @@ As you can see, the melted dataframe is in a long format where each row represen
 
 The `melt` function is a powerful tool for data manipulation and transformation in pandas, especially when dealing with wide datasets that need to be reshaped for specific analytical needs.
 
-### agg() Function:
+### ** About agg() Function: **
 
 In pandas, the `agg()` function is used to perform aggregation operations on a DataFrame or Series. Aggregation involves applying a function that reduces multiple values to a single value. The `agg()` function allows you to apply multiple aggregation functions to different columns of a DataFrame, and it's particularly useful when you want to compute multiple summary statistics in one step.
 
@@ -196,7 +196,7 @@ In this case, the `agg()` function applies the specified aggregation functions t
 
 The `agg()` function is a powerful tool for performing custom aggregations, especially when you need to compute multiple summary statistics simultaneously across different columns of your data.
 
-### mode() Function:
+### ** About mode() Function: **
 
 In pandas, the `mode()` function is used to calculate the mode of a DataFrame or Series. The mode is the value that appears most frequently in a set of data. The `mode()` function returns a Series containing the mode(s) of the data, which could be a single value or multiple values if there are multiple modes.
 
@@ -266,7 +266,7 @@ It's important to note that the `mode()` function returns a Series or DataFrame,
 
 Keep in mind that a dataset might have multiple modes, or it might not have any mode at all if all values are unique. The `mode()` function is useful for identifying the most frequently occurring values within your data.
 
-### to_frame() Function:
+### ** About to_frame() Function: **
 
 In pandas, the `to_frame()` function is used to convert a Series to a DataFrame. It allows you to transform a one-dimensional Series into a two-dimensional DataFrame while preserving the index and column names. This can be useful when you want to perform operations that are more suited for DataFrames on a Series.
 
@@ -327,7 +327,7 @@ Using the `to_frame()` function can be helpful when you need to transform a Seri
 
 Remember that if you have a DataFrame and you want to convert it into a Series, you can do so by selecting a single column using DataFrame indexing, like `df['column_name']`.
 
-### merge() Function:
+### ** About merge() Function: **
 
 The `merge()` function in pandas is used to combine two or more DataFrames based on common columns or indices. It's a powerful tool for joining and merging data from multiple sources into a single DataFrame, enabling you to perform various types of database-like operations. The `merge()` function supports various types of joins, such as inner, outer, left, and right joins, to combine data in different ways.
 
