@@ -1,5 +1,7 @@
 ### Leetcode
 
+![](https://github.com/AmaanAhmed/Leetcode-30-Days-of-Pandas/blob/main/Pandas.gif)
+
 # 30 Days of Pandas Studyplan
 
 #### In this GitHub repository, you'll find solutions to all the problems in the "30 days of pandas" study plan on LeetCode. The answers are accompanied by easy-to-follow explanations of the code.
