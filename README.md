@@ -56,7 +56,7 @@
 
 ## Here are a few functions that will make the code even more comprehensible for you. Feel free to skip this section if you're already familiar with these concepts.
 
-### ** About melt() Function: **
+### > About melt() Function:
 
 In the context of the Python programming language and the pandas library, the `melt` function is used to reshape and transform dataframes. It's an essential tool for restructuring data from a wide format to a long format. The `melt` function is particularly useful when you have a dataframe where multiple columns represent different variables, and you want to "melt" or "unpivot" these columns into a single column, thereby making the data more suitable for analysis, visualization, or further processing.
 
@@ -122,7 +122,7 @@ As you can see, the melted dataframe is in a long format where each row represen
 
 The `melt` function is a powerful tool for data manipulation and transformation in pandas, especially when dealing with wide datasets that need to be reshaped for specific analytical needs.
 
-### ** About agg() Function: **
+### > About agg() Function: 
 
 In pandas, the `agg()` function is used to perform aggregation operations on a DataFrame or Series. Aggregation involves applying a function that reduces multiple values to a single value. The `agg()` function allows you to apply multiple aggregation functions to different columns of a DataFrame, and it's particularly useful when you want to compute multiple summary statistics in one step.
 
@@ -196,7 +196,7 @@ In this case, the `agg()` function applies the specified aggregation functions t
 
 The `agg()` function is a powerful tool for performing custom aggregations, especially when you need to compute multiple summary statistics simultaneously across different columns of your data.
 
-### ** About mode() Function: **
+### > About mode() Function: 
 
 In pandas, the `mode()` function is used to calculate the mode of a DataFrame or Series. The mode is the value that appears most frequently in a set of data. The `mode()` function returns a Series containing the mode(s) of the data, which could be a single value or multiple values if there are multiple modes.
 
@@ -266,7 +266,7 @@ It's important to note that the `mode()` function returns a Series or DataFrame,
 
 Keep in mind that a dataset might have multiple modes, or it might not have any mode at all if all values are unique. The `mode()` function is useful for identifying the most frequently occurring values within your data.
 
-### ** About to_frame() Function: **
+### > About to_frame() Function: 
 
 In pandas, the `to_frame()` function is used to convert a Series to a DataFrame. It allows you to transform a one-dimensional Series into a two-dimensional DataFrame while preserving the index and column names. This can be useful when you want to perform operations that are more suited for DataFrames on a Series.
 
@@ -327,7 +327,7 @@ Using the `to_frame()` function can be helpful when you need to transform a Seri
 
 Remember that if you have a DataFrame and you want to convert it into a Series, you can do so by selecting a single column using DataFrame indexing, like `df['column_name']`.
 
-### ** About merge() Function: **
+### > About merge() Function: 
 
 The `merge()` function in pandas is used to combine two or more DataFrames based on common columns or indices. It's a powerful tool for joining and merging data from multiple sources into a single DataFrame, enabling you to perform various types of database-like operations. The `merge()` function supports various types of joins, such as inner, outer, left, and right joins, to combine data in different ways.
 
