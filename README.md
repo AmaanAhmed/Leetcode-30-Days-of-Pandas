@@ -196,6 +196,7 @@ sum   NaN  105.00  270000
 In this case, the `agg()` function applies the specified aggregation functions to all columns in the DataFrame.
 
 The `agg()` function is a powerful tool for performing custom aggregations, especially when you need to compute multiple summary statistics simultaneously across different columns of your data.
+_________________________________________________________________________________________________________________________________________________________________
 
 ### > About mode() Function: 
 
@@ -266,6 +267,7 @@ In this case, the `mode()` function calculates the mode for each column separate
 It's important to note that the `mode()` function returns a Series or DataFrame, depending on whether you apply it to a Series or DataFrame. If you apply it to a DataFrame, you'll get a DataFrame containing modes for each column.
 
 Keep in mind that a dataset might have multiple modes, or it might not have any mode at all if all values are unique. The `mode()` function is useful for identifying the most frequently occurring values within your data.
+_________________________________________________________________________________________________________________________________________________________________
 
 ### > About to_frame() Function: 
 
@@ -327,6 +329,7 @@ Output:
 Using the `to_frame()` function can be helpful when you need to transform a Series into a DataFrame to combine it with other DataFrames, perform join or merge operations, or use DataFrame-specific functions for analysis or visualization.
 
 Remember that if you have a DataFrame and you want to convert it into a Series, you can do so by selecting a single column using DataFrame indexing, like `df['column_name']`.
+_________________________________________________________________________________________________________________________________________________________________
 
 ### > About merge() Function: 
 
@@ -402,4 +405,4 @@ Output:
 In this case, the result includes all EmployeeIDs from both DataFrames, filling in missing values with `NaN` where necessary.
 
 The `merge()` function is a versatile tool for combining data in various ways based on common columns or indices. It's essential when you need to integrate and analyze data from different sources.
-
+_________________________________________________________________________________________________________________________________________________________________
